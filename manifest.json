@@ -1,0 +1,44 @@
+[
+  {
+    "id": "screens-metrics-metricspage--with-data",
+    "title": "Screens/Metrics/MetricsPage",
+    "name": "With Data",
+    "filename": "screens-metrics-metricspage--with-data.png",
+    "label": "Screens/Metrics/MetricsPage / With Data"
+  },
+  {
+    "id": "screens-metrics-metricspage--empty",
+    "title": "Screens/Metrics/MetricsPage",
+    "name": "Empty",
+    "filename": "screens-metrics-metricspage--empty.png",
+    "label": "Screens/Metrics/MetricsPage / Empty"
+  },
+  {
+    "id": "screens-notfound-notfoundpage--default",
+    "title": "Screens/NotFound/NotFoundPage",
+    "name": "Default",
+    "filename": "screens-notfound-notfoundpage--default.png",
+    "label": "Screens/NotFound/NotFoundPage / Default"
+  },
+  {
+    "id": "screens-settings-settingspage--default",
+    "title": "Screens/Settings/SettingsPage",
+    "name": "Default",
+    "filename": "screens-settings-settingspage--default.png",
+    "label": "Screens/Settings/SettingsPage / Default"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
