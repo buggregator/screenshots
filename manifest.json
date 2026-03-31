@@ -1,0 +1,506 @@
+[
+  {
+    "id": "entities-ray-raylog--default",
+    "title": "Entities/Ray/RayLog",
+    "name": "Default",
+    "filename": "entities-ray-raylog--default.png",
+    "label": "Entities/Ray/RayLog / Default"
+  },
+  {
+    "id": "entities-ray-raylog--sf-dump",
+    "title": "Entities/Ray/RayLog",
+    "name": "Sf Dump",
+    "filename": "entities-ray-raylog--sf-dump.png",
+    "label": "Entities/Ray/RayLog / Sf Dump"
+  },
+  {
+    "id": "entities-ray-raylog--zero",
+    "title": "Entities/Ray/RayLog",
+    "name": "Zero",
+    "filename": "entities-ray-raylog--zero.png",
+    "label": "Entities/Ray/RayLog / Zero"
+  },
+  {
+    "id": "entities-ray-raylog--integer",
+    "title": "Entities/Ray/RayLog",
+    "name": "Integer",
+    "filename": "entities-ray-raylog--integer.png",
+    "label": "Entities/Ray/RayLog / Integer"
+  },
+  {
+    "id": "entities-ray-raylog--empty-string",
+    "title": "Entities/Ray/RayLog",
+    "name": "Empty String",
+    "filename": "entities-ray-raylog--empty-string.png",
+    "label": "Entities/Ray/RayLog / Empty String"
+  },
+  {
+    "id": "entities-sentry-miniwaterfall--three-spans",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "Three Spans",
+    "filename": "entities-sentry-miniwaterfall--three-spans.png",
+    "label": "Entities/Sentry/MiniWaterfall / Three Spans"
+  },
+  {
+    "id": "entities-sentry-miniwaterfall--five-spans",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "Five Spans",
+    "filename": "entities-sentry-miniwaterfall--five-spans.png",
+    "label": "Entities/Sentry/MiniWaterfall / Five Spans"
+  },
+  {
+    "id": "entities-sentry-miniwaterfall--with-error",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "With Error",
+    "filename": "entities-sentry-miniwaterfall--with-error.png",
+    "label": "Entities/Sentry/MiniWaterfall / With Error"
+  },
+  {
+    "id": "entities-sentry-previewcard--spiral",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "Spiral",
+    "filename": "entities-sentry-previewcard--spiral.png",
+    "label": "Entities/Sentry/PreviewCard / Spiral"
+  },
+  {
+    "id": "entities-sentry-previewcard--laravel",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "Laravel",
+    "filename": "entities-sentry-previewcard--laravel.png",
+    "label": "Entities/Sentry/PreviewCard / Laravel"
+  },
+  {
+    "id": "entities-sentry-previewcard--event",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "Event",
+    "filename": "entities-sentry-previewcard--event.png",
+    "label": "Entities/Sentry/PreviewCard / Event"
+  },
+  {
+    "id": "entities-sentry-previewcard--js-event",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "JS Event",
+    "filename": "entities-sentry-previewcard--js-event.png",
+    "label": "Entities/Sentry/PreviewCard / JS Event"
+  },
+  {
+    "id": "entities-sentry-previewcard--python",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "Python",
+    "filename": "entities-sentry-previewcard--python.png",
+    "label": "Entities/Sentry/PreviewCard / Python"
+  },
+  {
+    "id": "entities-sentry-previewcard--python-log",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "Python Log",
+    "filename": "entities-sentry-previewcard--python-log.png",
+    "label": "Entities/Sentry/PreviewCard / Python Log"
+  },
+  {
+    "id": "entities-sentry-previewcard--with-occurrence-badge",
+    "title": "Entities/Sentry/PreviewCard",
+    "name": "With Occurrence Badge",
+    "filename": "entities-sentry-previewcard--with-occurrence-badge.png",
+    "label": "Entities/Sentry/PreviewCard / With Occurrence Badge"
+  },
+  {
+    "id": "entities-sentry-sentryemptystate--exceptions",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Exceptions",
+    "filename": "entities-sentry-sentryemptystate--exceptions.png",
+    "label": "Entities/Sentry/SentryEmptyState / Exceptions"
+  },
+  {
+    "id": "entities-sentry-sentryemptystate--traces",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Traces",
+    "filename": "entities-sentry-sentryemptystate--traces.png",
+    "label": "Entities/Sentry/SentryEmptyState / Traces"
+  },
+  {
+    "id": "entities-sentry-sentryemptystate--logs",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Logs",
+    "filename": "entities-sentry-sentryemptystate--logs.png",
+    "label": "Entities/Sentry/SentryEmptyState / Logs"
+  },
+  {
+    "id": "entities-sentry-sentryexceptiongroupcard--unhandled",
+    "title": "Entities/Sentry/SentryExceptionGroupCard",
+    "name": "Unhandled",
+    "filename": "entities-sentry-sentryexceptiongroupcard--unhandled.png",
+    "label": "Entities/Sentry/SentryExceptionGroupCard / Unhandled"
+  },
+  {
+    "id": "entities-sentry-sentryexceptiongroupcard--handled",
+    "title": "Entities/Sentry/SentryExceptionGroupCard",
+    "name": "Handled",
+    "filename": "entities-sentry-sentryexceptiongroupcard--handled.png",
+    "label": "Entities/Sentry/SentryExceptionGroupCard / Handled"
+  },
+  {
+    "id": "entities-sentry-sentryexceptiongroupcard--single-occurrence",
+    "title": "Entities/Sentry/SentryExceptionGroupCard",
+    "name": "Single Occurrence",
+    "filename": "entities-sentry-sentryexceptiongroupcard--single-occurrence.png",
+    "label": "Entities/Sentry/SentryExceptionGroupCard / Single Occurrence"
+  },
+  {
+    "id": "entities-sentry-sentryexceptiongroupcard--long-class-name",
+    "title": "Entities/Sentry/SentryExceptionGroupCard",
+    "name": "Long Class Name",
+    "filename": "entities-sentry-sentryexceptiongroupcard--long-class-name.png",
+    "label": "Entities/Sentry/SentryExceptionGroupCard / Long Class Name"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--info",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Info",
+    "filename": "entities-sentry-sentrylogrow--info.png",
+    "label": "Entities/Sentry/SentryLogRow / Info"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--warning",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Warning",
+    "filename": "entities-sentry-sentrylogrow--warning.png",
+    "label": "Entities/Sentry/SentryLogRow / Warning"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--error",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Error",
+    "filename": "entities-sentry-sentrylogrow--error.png",
+    "label": "Entities/Sentry/SentryLogRow / Error"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--debug",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Debug",
+    "filename": "entities-sentry-sentrylogrow--debug.png",
+    "label": "Entities/Sentry/SentryLogRow / Debug"
+  },
+  {
+    "id": "entities-sentry-sentrylogslist--default",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Default",
+    "filename": "entities-sentry-sentrylogslist--default.png",
+    "label": "Entities/Sentry/SentryLogsList / Default"
+  },
+  {
+    "id": "entities-sentry-sentrylogslist--loading",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Loading",
+    "filename": "entities-sentry-sentrylogslist--loading.png",
+    "label": "Entities/Sentry/SentryLogsList / Loading"
+  },
+  {
+    "id": "entities-sentry-sentrylogslist--empty",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Empty",
+    "filename": "entities-sentry-sentrylogslist--empty.png",
+    "label": "Entities/Sentry/SentryLogsList / Empty"
+  },
+  {
+    "id": "entities-sentry-sentrypagebreadcrumbs--laravel",
+    "title": "Entities/Sentry/SentryPageBreadcrumbs",
+    "name": "Laravel",
+    "filename": "entities-sentry-sentrypagebreadcrumbs--laravel.png",
+    "label": "Entities/Sentry/SentryPageBreadcrumbs / Laravel"
+  },
+  {
+    "id": "entities-sentry-sentrypagebreadcrumbs--spiral",
+    "title": "Entities/Sentry/SentryPageBreadcrumbs",
+    "name": "Spiral",
+    "filename": "entities-sentry-sentrypagebreadcrumbs--spiral.png",
+    "label": "Entities/Sentry/SentryPageBreadcrumbs / Spiral"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-common",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Common",
+    "filename": "entities-sentry-sentrypage--page-common.png",
+    "label": "Entities/Sentry/SentryPage / Page Common"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-event",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Event",
+    "filename": "entities-sentry-sentrypage--page-event.png",
+    "label": "Entities/Sentry/SentryPage / Page Event"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-laravel",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Laravel",
+    "filename": "entities-sentry-sentrypage--page-laravel.png",
+    "label": "Entities/Sentry/SentryPage / Page Laravel"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-spiral",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Spiral",
+    "filename": "entities-sentry-sentrypage--page-spiral.png",
+    "label": "Entities/Sentry/SentryPage / Page Spiral"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS",
+    "filename": "entities-sentry-sentrypage--page-js.png",
+    "label": "Entities/Sentry/SentryPage / Page JS"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js-message",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS Message",
+    "filename": "entities-sentry-sentrypage--page-js-message.png",
+    "label": "Entities/Sentry/SentryPage / Page JS Message"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python",
+    "filename": "entities-sentry-sentrypage--page-python.png",
+    "label": "Entities/Sentry/SentryPage / Page Python"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python-log",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python Log",
+    "filename": "entities-sentry-sentrypage--page-python-log.png",
+    "label": "Entities/Sentry/SentryPage / Page Python Log"
+  },
+  {
+    "id": "entities-sentry-sentrysubnav--default",
+    "title": "Entities/Sentry/SentrySubNav",
+    "name": "Default",
+    "filename": "entities-sentry-sentrysubnav--default.png",
+    "label": "Entities/Sentry/SentrySubNav / Default"
+  },
+  {
+    "id": "entities-sentry-tracecontextblock--default",
+    "title": "Entities/Sentry/TraceContextBlock",
+    "name": "Default",
+    "filename": "entities-sentry-tracecontextblock--default.png",
+    "label": "Entities/Sentry/TraceContextBlock / Default"
+  },
+  {
+    "id": "entities-sentry-tracecontextblock--no-spans",
+    "title": "Entities/Sentry/TraceContextBlock",
+    "name": "No Spans",
+    "filename": "entities-sentry-tracecontextblock--no-spans.png",
+    "label": "Entities/Sentry/TraceContextBlock / No Spans"
+  },
+  {
+    "id": "entities-sentry-tracepreviewcard--default",
+    "title": "Entities/Sentry/TracePreviewCard",
+    "name": "Default",
+    "filename": "entities-sentry-tracepreviewcard--default.png",
+    "label": "Entities/Sentry/TracePreviewCard / Default"
+  },
+  {
+    "id": "entities-sentry-tracepreviewcard--with-errors",
+    "title": "Entities/Sentry/TracePreviewCard",
+    "name": "With Errors",
+    "filename": "entities-sentry-tracepreviewcard--with-errors.png",
+    "label": "Entities/Sentry/TracePreviewCard / With Errors"
+  },
+  {
+    "id": "entities-sentry-tracepreviewcard--long-transaction",
+    "title": "Entities/Sentry/TracePreviewCard",
+    "name": "Long Transaction",
+    "filename": "entities-sentry-tracepreviewcard--long-transaction.png",
+    "label": "Entities/Sentry/TracePreviewCard / Long Transaction"
+  },
+  {
+    "id": "entities-sentry-tracewaterfall--default",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "Default",
+    "filename": "entities-sentry-tracewaterfall--default.png",
+    "label": "Entities/Sentry/TraceWaterfall / Default"
+  },
+  {
+    "id": "entities-sentry-tracewaterfall--with-errors",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "With Errors",
+    "filename": "entities-sentry-tracewaterfall--with-errors.png",
+    "label": "Entities/Sentry/TraceWaterfall / With Errors"
+  },
+  {
+    "id": "entities-sentry-tracewaterfall--empty",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "Empty",
+    "filename": "entities-sentry-tracewaterfall--empty.png",
+    "label": "Entities/Sentry/TraceWaterfall / Empty"
+  },
+  {
+    "id": "screens-eventpage-eventpage--default",
+    "title": "Screens/EventPage/EventPage",
+    "name": "Default",
+    "filename": "screens-eventpage-eventpage--default.png",
+    "label": "Screens/EventPage/EventPage / Default"
+  },
+  {
+    "id": "screens-notfound-notfoundpage--default",
+    "title": "Screens/NotFound/NotFoundPage",
+    "name": "Default",
+    "filename": "screens-notfound-notfoundpage--default.png",
+    "label": "Screens/NotFound/NotFoundPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentryexceptionspage--default",
+    "title": "Screens/Sentry/SentryExceptionsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentryexceptionspage--default.png",
+    "label": "Screens/Sentry/SentryExceptionsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrylogspage--default",
+    "title": "Screens/Sentry/SentryLogsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrylogspage--default.png",
+    "label": "Screens/Sentry/SentryLogsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracedetailpage--default",
+    "title": "Screens/Sentry/SentryTraceDetailPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracedetailpage--default.png",
+    "label": "Screens/Sentry/SentryTraceDetailPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracespage--default",
+    "title": "Screens/Sentry/SentryTracesPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracespage--default.png",
+    "label": "Screens/Sentry/SentryTracesPage / Default"
+  },
+  {
+    "id": "shared-valuedump--string",
+    "title": "Shared/ValueDump",
+    "name": "String",
+    "filename": "shared-valuedump--string.png",
+    "label": "Shared/ValueDump / String"
+  },
+  {
+    "id": "shared-valuedump--boolean",
+    "title": "Shared/ValueDump",
+    "name": "Boolean",
+    "filename": "shared-valuedump--boolean.png",
+    "label": "Shared/ValueDump / Boolean"
+  },
+  {
+    "id": "shared-valuedump--sf-dump",
+    "title": "Shared/ValueDump",
+    "name": "Sf Dump",
+    "filename": "shared-valuedump--sf-dump.png",
+    "label": "Shared/ValueDump / Sf Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--default",
+    "title": "Widgets/EventCardMapper",
+    "name": "Default",
+    "filename": "widgets-eventcardmapper--default.png",
+    "label": "Widgets/EventCardMapper / Default"
+  },
+  {
+    "id": "widgets-eventcardmapper--monolog",
+    "title": "Widgets/EventCardMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventcardmapper--monolog.png",
+    "label": "Widgets/EventCardMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventcardmapper--sentry",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventcardmapper--sentry.png",
+    "label": "Widgets/EventCardMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventcardmapper--smtp",
+    "title": "Widgets/EventCardMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventcardmapper--smtp.png",
+    "label": "Widgets/EventCardMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventcardmapper--var-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventcardmapper--var-dump.png",
+    "label": "Widgets/EventCardMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--profiler",
+    "title": "Widgets/EventCardMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventcardmapper--profiler.png",
+    "label": "Widgets/EventCardMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventcardmapper--inspector",
+    "title": "Widgets/EventCardMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventcardmapper--inspector.png",
+    "label": "Widgets/EventCardMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventcardmapper--http-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventcardmapper--http-dump.png",
+    "label": "Widgets/EventCardMapper / Http Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms",
+    "filename": "widgets-eventcardmapper--sms.png",
+    "label": "Widgets/EventCardMapper / Sms"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms-with-warnings",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms With Warnings",
+    "filename": "widgets-eventcardmapper--sms-with-warnings.png",
+    "label": "Widgets/EventCardMapper / Sms With Warnings"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List",
+    "filename": "widgets-eventcardmapper--events-list.png",
+    "label": "Widgets/EventCardMapper / Events List"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list-virtual",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List Virtual",
+    "filename": "widgets-eventcardmapper--events-list-virtual.png",
+    "label": "Widgets/EventCardMapper / Events List Virtual"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  },
+  {
+    "id": "widgets-pageeventheader--default",
+    "title": "Widgets/PageEventHeader",
+    "name": "Default",
+    "filename": "widgets-pageeventheader--default.png",
+    "label": "Widgets/PageEventHeader / Default"
+  }
+]
