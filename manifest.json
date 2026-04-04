@@ -1,0 +1,289 @@
+[
+  {
+    "id": "entities-httpdump-httpbodyview--json-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Json Body",
+    "filename": "entities-httpdump-httpbodyview--json-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Json Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--empty-json-object",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Empty Json Object",
+    "filename": "entities-httpdump-httpbodyview--empty-json-object.png",
+    "label": "Entities/HttpDump/HttpBodyView / Empty Json Object"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--html-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Html Body",
+    "filename": "entities-httpdump-httpbodyview--html-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Html Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--xml-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Xml Body",
+    "filename": "entities-httpdump-httpbodyview--xml-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Xml Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--plain-text-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Plain Text Body",
+    "filename": "entities-httpdump-httpbodyview--plain-text-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Plain Text Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--large-json-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Large Json Body",
+    "filename": "entities-httpdump-httpbodyview--large-json-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Large Json Body"
+  },
+  {
+    "id": "entities-httpdump-httpdumpheader--regular-dump",
+    "title": "Entities/HttpDump/HttpDumpHeader",
+    "name": "Regular Dump",
+    "filename": "entities-httpdump-httpdumpheader--regular-dump.png",
+    "label": "Entities/HttpDump/HttpDumpHeader / Regular Dump"
+  },
+  {
+    "id": "entities-httpdump-httpdumpheader--proxy-success",
+    "title": "Entities/HttpDump/HttpDumpHeader",
+    "name": "Proxy Success",
+    "filename": "entities-httpdump-httpdumpheader--proxy-success.png",
+    "label": "Entities/HttpDump/HttpDumpHeader / Proxy Success"
+  },
+  {
+    "id": "entities-httpdump-httpdumpheader--proxy-4-xx",
+    "title": "Entities/HttpDump/HttpDumpHeader",
+    "name": "Proxy 4 Xx",
+    "filename": "entities-httpdump-httpdumpheader--proxy-4-xx.png",
+    "label": "Entities/HttpDump/HttpDumpHeader / Proxy 4 Xx"
+  },
+  {
+    "id": "entities-httpdump-httpdumpheader--proxy-connection-error",
+    "title": "Entities/HttpDump/HttpDumpHeader",
+    "name": "Proxy Connection Error",
+    "filename": "entities-httpdump-httpdumpheader--proxy-connection-error.png",
+    "label": "Entities/HttpDump/HttpDumpHeader / Proxy Connection Error"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--default",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Default",
+    "filename": "entities-httpdump-httpdumppage--default.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Default"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--with-pdf",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "With Pdf",
+    "filename": "entities-httpdump-httpdumppage--with-pdf.png",
+    "label": "Entities/HttpDump/HttpDumpPage / With Pdf"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-json-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Json Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-json-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Json Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-html-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Html Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-html-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Html Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-xml-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Xml Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-xml-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Xml Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-binary-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Binary Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-binary-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Binary Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-4-xx-error",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy 4 Xx Error",
+    "filename": "entities-httpdump-httpdumppage--proxy-4-xx-error.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy 4 Xx Error"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-connection-error",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Connection Error",
+    "filename": "entities-httpdump-httpdumppage--proxy-connection-error.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Connection Error"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--with-query-and-headers",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "With Query And Headers",
+    "filename": "entities-httpdump-httprequestpanel--with-query-and-headers.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / With Query And Headers"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--proxy-post-with-json-body",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "Proxy Post With Json Body",
+    "filename": "entities-httpdump-httprequestpanel--proxy-post-with-json-body.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / Proxy Post With Json Body"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--proxy-form-body",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "Proxy Form Body",
+    "filename": "entities-httpdump-httprequestpanel--proxy-form-body.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / Proxy Form Body"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--json-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Json Response",
+    "filename": "entities-httpdump-httpresponsepanel--json-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Json Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--html-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Html Response",
+    "filename": "entities-httpdump-httpresponsepanel--html-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Html Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--xml-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Xml Response",
+    "filename": "entities-httpdump-httpresponsepanel--xml-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Xml Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--binary-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Binary Response",
+    "filename": "entities-httpdump-httpresponsepanel--binary-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Binary Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--error-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Error Response",
+    "filename": "entities-httpdump-httpresponsepanel--error-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Error Response"
+  },
+  {
+    "id": "entities-httpdump-previewcard--default",
+    "title": "Entities/HttpDump/PreviewCard",
+    "name": "Default",
+    "filename": "entities-httpdump-previewcard--default.png",
+    "label": "Entities/HttpDump/PreviewCard / Default"
+  },
+  {
+    "id": "entities-httpdump-previewcard--proxy-json",
+    "title": "Entities/HttpDump/PreviewCard",
+    "name": "Proxy Json",
+    "filename": "entities-httpdump-previewcard--proxy-json.png",
+    "label": "Entities/HttpDump/PreviewCard / Proxy Json"
+  },
+  {
+    "id": "entities-httpdump-previewcard--proxy-html",
+    "title": "Entities/HttpDump/PreviewCard",
+    "name": "Proxy Html",
+    "filename": "entities-httpdump-previewcard--proxy-html.png",
+    "label": "Entities/HttpDump/PreviewCard / Proxy Html"
+  },
+  {
+    "id": "entities-httpdump-previewcard--proxy-error",
+    "title": "Entities/HttpDump/PreviewCard",
+    "name": "Proxy Error",
+    "filename": "entities-httpdump-previewcard--proxy-error.png",
+    "label": "Entities/HttpDump/PreviewCard / Proxy Error"
+  },
+  {
+    "id": "entities-httpdump-previewcard--proxy-4-xx",
+    "title": "Entities/HttpDump/PreviewCard",
+    "name": "Proxy 4 Xx",
+    "filename": "entities-httpdump-previewcard--proxy-4-xx.png",
+    "label": "Entities/HttpDump/PreviewCard / Proxy 4 Xx"
+  },
+  {
+    "id": "shared-codesnippet--default",
+    "title": "Shared/CodeSnippet",
+    "name": "Default",
+    "filename": "shared-codesnippet--default.png",
+    "label": "Shared/CodeSnippet / Default"
+  },
+  {
+    "id": "shared-codesnippet--object",
+    "title": "Shared/CodeSnippet",
+    "name": "Object",
+    "filename": "shared-codesnippet--object.png",
+    "label": "Shared/CodeSnippet / Object"
+  },
+  {
+    "id": "shared-codesnippet--html-string",
+    "title": "Shared/CodeSnippet",
+    "name": "HTML String",
+    "filename": "shared-codesnippet--html-string.png",
+    "label": "Shared/CodeSnippet / HTML String"
+  },
+  {
+    "id": "shared-codesnippet--php-string",
+    "title": "Shared/CodeSnippet",
+    "name": "PHP String",
+    "filename": "shared-codesnippet--php-string.png",
+    "label": "Shared/CodeSnippet / PHP String"
+  },
+  {
+    "id": "shared-jsontreeview--default",
+    "title": "Shared/JsonTreeView",
+    "name": "Default",
+    "filename": "shared-jsontreeview--default.png",
+    "label": "Shared/JsonTreeView / Default"
+  },
+  {
+    "id": "shared-jsontreeview--simple-array",
+    "title": "Shared/JsonTreeView",
+    "name": "Simple Array",
+    "filename": "shared-jsontreeview--simple-array.png",
+    "label": "Shared/JsonTreeView / Simple Array"
+  },
+  {
+    "id": "shared-jsontreeview--primitive-string",
+    "title": "Shared/JsonTreeView",
+    "name": "Primitive String",
+    "filename": "shared-jsontreeview--primitive-string.png",
+    "label": "Shared/JsonTreeView / Primitive String"
+  },
+  {
+    "id": "shared-jsontreeview--empty-object",
+    "title": "Shared/JsonTreeView",
+    "name": "Empty Object",
+    "filename": "shared-jsontreeview--empty-object.png",
+    "label": "Shared/JsonTreeView / Empty Object"
+  },
+  {
+    "id": "shared-jsontreeview--deeply-nested",
+    "title": "Shared/JsonTreeView",
+    "name": "Deeply Nested",
+    "filename": "shared-jsontreeview--deeply-nested.png",
+    "label": "Shared/JsonTreeView / Deeply Nested"
+  },
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  }
+]
