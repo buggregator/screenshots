@@ -1,0 +1,30 @@
+[
+  {
+    "id": "shared-appheader--default",
+    "title": "Shared/AppHeader",
+    "name": "Default",
+    "filename": "shared-appheader--default.png",
+    "label": "Shared/AppHeader / Default"
+  },
+  {
+    "id": "shared-appheader--with-actions",
+    "title": "Shared/AppHeader",
+    "name": "With Actions",
+    "filename": "shared-appheader--with-actions.png",
+    "label": "Shared/AppHeader / With Actions"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
