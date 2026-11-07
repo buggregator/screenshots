@@ -1,0 +1,65 @@
+[
+  {
+    "id": "entities-vardump-previewcard--default",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Default",
+    "filename": "entities-vardump-previewcard--default.png",
+    "label": "Entities/VarDump/PreviewCard / Default"
+  },
+  {
+    "id": "entities-vardump-previewcard--number",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Number",
+    "filename": "entities-vardump-previewcard--number.png",
+    "label": "Entities/VarDump/PreviewCard / Number"
+  },
+  {
+    "id": "entities-vardump-previewcard--string",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "String",
+    "filename": "entities-vardump-previewcard--string.png",
+    "label": "Entities/VarDump/PreviewCard / String"
+  },
+  {
+    "id": "entities-vardump-previewcard--string-empty",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "String Empty",
+    "filename": "entities-vardump-previewcard--string-empty.png",
+    "label": "Entities/VarDump/PreviewCard / String Empty"
+  },
+  {
+    "id": "entities-vardump-previewcard--boolean-true",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Boolean True",
+    "filename": "entities-vardump-previewcard--boolean-true.png",
+    "label": "Entities/VarDump/PreviewCard / Boolean True"
+  },
+  {
+    "id": "entities-vardump-previewcard--boolean-false",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Boolean False",
+    "filename": "entities-vardump-previewcard--boolean-false.png",
+    "label": "Entities/VarDump/PreviewCard / Boolean False"
+  },
+  {
+    "id": "entities-vardump-previewcard--array",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Array",
+    "filename": "entities-vardump-previewcard--array.png",
+    "label": "Entities/VarDump/PreviewCard / Array"
+  },
+  {
+    "id": "entities-vardump-previewcard--code",
+    "title": "Entities/VarDump/PreviewCard",
+    "name": "Code",
+    "filename": "entities-vardump-previewcard--code.png",
+    "label": "Entities/VarDump/PreviewCard / Code"
+  },
+  {
+    "id": "entities-vardump-vardumppage--default",
+    "title": "Entities/VarDump/VarDumpPage",
+    "name": "Default",
+    "filename": "entities-vardump-vardumppage--default.png",
+    "label": "Entities/VarDump/VarDumpPage / Default"
+  }
+]
