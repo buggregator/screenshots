@@ -1,0 +1,170 @@
+[
+  {
+    "id": "entities-xdebugtrace-previewcard--request",
+    "title": "Entities/XdebugTrace/PreviewCard",
+    "name": "Request",
+    "filename": "entities-xdebugtrace-previewcard--request.png",
+    "label": "Entities/XdebugTrace/PreviewCard / Request"
+  },
+  {
+    "id": "entities-xdebugtrace-previewcard--cut-command",
+    "title": "Entities/XdebugTrace/PreviewCard",
+    "name": "Cut Command",
+    "filename": "entities-xdebugtrace-previewcard--cut-command.png",
+    "label": "Entities/XdebugTrace/PreviewCard / Cut Command"
+  },
+  {
+    "id": "shared-iconsvg--default",
+    "title": "Shared/IconSvg",
+    "name": "Default",
+    "filename": "shared-iconsvg--default.png",
+    "label": "Shared/IconSvg / Default"
+  },
+  {
+    "id": "shared-iconsvg--all-icons",
+    "title": "Shared/IconSvg",
+    "name": "All Icons",
+    "filename": "shared-iconsvg--all-icons.png",
+    "label": "Shared/IconSvg / All Icons"
+  },
+  {
+    "id": "widgets-eventcardmapper--default",
+    "title": "Widgets/EventCardMapper",
+    "name": "Default",
+    "filename": "widgets-eventcardmapper--default.png",
+    "label": "Widgets/EventCardMapper / Default"
+  },
+  {
+    "id": "widgets-eventcardmapper--monolog",
+    "title": "Widgets/EventCardMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventcardmapper--monolog.png",
+    "label": "Widgets/EventCardMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventcardmapper--sentry",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventcardmapper--sentry.png",
+    "label": "Widgets/EventCardMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventcardmapper--smtp",
+    "title": "Widgets/EventCardMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventcardmapper--smtp.png",
+    "label": "Widgets/EventCardMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventcardmapper--var-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventcardmapper--var-dump.png",
+    "label": "Widgets/EventCardMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--profiler",
+    "title": "Widgets/EventCardMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventcardmapper--profiler.png",
+    "label": "Widgets/EventCardMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventcardmapper--inspector",
+    "title": "Widgets/EventCardMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventcardmapper--inspector.png",
+    "label": "Widgets/EventCardMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventcardmapper--http-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventcardmapper--http-dump.png",
+    "label": "Widgets/EventCardMapper / Http Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms",
+    "filename": "widgets-eventcardmapper--sms.png",
+    "label": "Widgets/EventCardMapper / Sms"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms-with-warnings",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms With Warnings",
+    "filename": "widgets-eventcardmapper--sms-with-warnings.png",
+    "label": "Widgets/EventCardMapper / Sms With Warnings"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List",
+    "filename": "widgets-eventcardmapper--events-list.png",
+    "label": "Widgets/EventCardMapper / Events List"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list-virtual",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List Virtual",
+    "filename": "widgets-eventcardmapper--events-list-virtual.png",
+    "label": "Widgets/EventCardMapper / Events List Virtual"
+  },
+  {
+    "id": "widgets-eventspagemapper--default",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Default",
+    "filename": "widgets-eventspagemapper--default.png",
+    "label": "Widgets/EventsPageMapper / Default"
+  },
+  {
+    "id": "widgets-eventspagemapper--monolog",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventspagemapper--monolog.png",
+    "label": "Widgets/EventsPageMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventspagemapper--sentry",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventspagemapper--sentry.png",
+    "label": "Widgets/EventsPageMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventspagemapper--smtp",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventspagemapper--smtp.png",
+    "label": "Widgets/EventsPageMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventspagemapper--var-dump",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventspagemapper--var-dump.png",
+    "label": "Widgets/EventsPageMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventspagemapper--profiler",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventspagemapper--profiler.png",
+    "label": "Widgets/EventsPageMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventspagemapper--inspector",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventspagemapper--inspector.png",
+    "label": "Widgets/EventsPageMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventspagemapper--http-dump",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventspagemapper--http-dump.png",
+    "label": "Widgets/EventsPageMapper / Http Dump"
+  }
+]
