@@ -1,0 +1,23 @@
+[
+  {
+    "id": "screens-login-loginpage--default",
+    "title": "Screens/Login/LoginPage",
+    "name": "Default",
+    "filename": "screens-login-loginpage--default.png",
+    "label": "Screens/Login/LoginPage / Default"
+  },
+  {
+    "id": "screens-login-loginpage--dark",
+    "title": "Screens/Login/LoginPage",
+    "name": "Dark",
+    "filename": "screens-login-loginpage--dark.png",
+    "label": "Screens/Login/LoginPage / Dark"
+  },
+  {
+    "id": "screens-notfound-notfoundpage--default",
+    "title": "Screens/NotFound/NotFoundPage",
+    "name": "Default",
+    "filename": "screens-notfound-notfoundpage--default.png",
+    "label": "Screens/NotFound/NotFoundPage / Default"
+  }
+]
