@@ -1,0 +1,37 @@
+[
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "screens-settings-settingspage--default",
+    "title": "Screens/Settings/SettingsPage",
+    "name": "Default",
+    "filename": "screens-settings-settingspage--default.png",
+    "label": "Screens/Settings/SettingsPage / Default"
+  },
+  {
+    "id": "shared-highlighttext--default",
+    "title": "Shared/HighlightText",
+    "name": "Default",
+    "filename": "shared-highlighttext--default.png",
+    "label": "Shared/HighlightText / Default"
+  },
+  {
+    "id": "shared-searchbar--default",
+    "title": "Shared/SearchBar",
+    "name": "Default",
+    "filename": "shared-searchbar--default.png",
+    "label": "Shared/SearchBar / Default"
+  },
+  {
+    "id": "shared-searchbar--with-query",
+    "title": "Shared/SearchBar",
+    "name": "With Query",
+    "filename": "shared-searchbar--with-query.png",
+    "label": "Shared/SearchBar / With Query"
+  }
+]
