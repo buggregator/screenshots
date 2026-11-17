@@ -1,0 +1,23 @@
+[
+  {
+    "id": "shared-appheader--default",
+    "title": "Shared/AppHeader",
+    "name": "Default",
+    "filename": "shared-appheader--default.png",
+    "label": "Shared/AppHeader / Default"
+  },
+  {
+    "id": "shared-appheader--with-actions",
+    "title": "Shared/AppHeader",
+    "name": "With Actions",
+    "filename": "shared-appheader--with-actions.png",
+    "label": "Shared/AppHeader / With Actions"
+  },
+  {
+    "id": "widgets-pageheader--default",
+    "title": "Widgets/PageHeader",
+    "name": "Default",
+    "filename": "widgets-pageheader--default.png",
+    "label": "Widgets/PageHeader / Default"
+  }
+]
