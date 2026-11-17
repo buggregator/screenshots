@@ -1,0 +1,191 @@
+[
+  {
+    "id": "entities-serverupdate-updatepanel--up-to-date",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Up To Date",
+    "filename": "entities-serverupdate-updatepanel--up-to-date.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Up To Date"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--never-checked",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Never Checked",
+    "filename": "entities-serverupdate-updatepanel--never-checked.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Never Checked"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--checking",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Checking",
+    "filename": "entities-serverupdate-updatepanel--checking.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Checking"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--check-too-early",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Check Too Early",
+    "filename": "entities-serverupdate-updatepanel--check-too-early.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Check Too Early"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--available",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Available",
+    "filename": "entities-serverupdate-updatepanel--available.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Available"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--available-memory-db",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Available Memory Db",
+    "filename": "entities-serverupdate-updatepanel--available-memory-db.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Available Memory Db"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--start-refused",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Start Refused",
+    "filename": "entities-serverupdate-updatepanel--start-refused.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Start Refused"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--downloading",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Downloading",
+    "filename": "entities-serverupdate-updatepanel--downloading.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Downloading"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--verifying",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Verifying",
+    "filename": "entities-serverupdate-updatepanel--verifying.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Verifying"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--installing",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Installing",
+    "filename": "entities-serverupdate-updatepanel--installing.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Installing"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--restarting",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Restarting",
+    "filename": "entities-serverupdate-updatepanel--restarting.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Restarting"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--restart-too-long",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Restart Too Long",
+    "filename": "entities-serverupdate-updatepanel--restart-too-long.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Restart Too Long"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--done",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Done",
+    "filename": "entities-serverupdate-updatepanel--done.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Done"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--failed",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Failed",
+    "filename": "entities-serverupdate-updatepanel--failed.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Failed"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--rolled-back",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Rolled Back",
+    "filename": "entities-serverupdate-updatepanel--rolled-back.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Rolled Back"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--restart-required",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Restart Required",
+    "filename": "entities-serverupdate-updatepanel--restart-required.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Restart Required"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--manual-docker",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Manual Docker",
+    "filename": "entities-serverupdate-updatepanel--manual-docker.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Manual Docker"
+  },
+  {
+    "id": "entities-serverupdate-updatepanel--off",
+    "title": "Entities/ServerUpdate/UpdatePanel",
+    "name": "Off",
+    "filename": "entities-serverupdate-updatepanel--off.png",
+    "label": "Entities/ServerUpdate/UpdatePanel / Off"
+  },
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "screens-settings-settingspage--default",
+    "title": "Screens/Settings/SettingsPage",
+    "name": "Default",
+    "filename": "screens-settings-settingspage--default.png",
+    "label": "Screens/Settings/SettingsPage / Default"
+  },
+  {
+    "id": "shared-appheader--default",
+    "title": "Shared/AppHeader",
+    "name": "Default",
+    "filename": "shared-appheader--default.png",
+    "label": "Shared/AppHeader / Default"
+  },
+  {
+    "id": "shared-appheader--with-actions",
+    "title": "Shared/AppHeader",
+    "name": "With Actions",
+    "filename": "shared-appheader--with-actions.png",
+    "label": "Shared/AppHeader / With Actions"
+  },
+  {
+    "id": "shared-searchbar--default",
+    "title": "Shared/SearchBar",
+    "name": "Default",
+    "filename": "shared-searchbar--default.png",
+    "label": "Shared/SearchBar / Default"
+  },
+  {
+    "id": "shared-searchbar--with-query",
+    "title": "Shared/SearchBar",
+    "name": "With Query",
+    "filename": "shared-searchbar--with-query.png",
+    "label": "Shared/SearchBar / With Query"
+  },
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
