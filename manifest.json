@@ -1,0 +1,107 @@
+[
+  {
+    "id": "entities-sentry-sentrylogslist--default",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Default",
+    "filename": "entities-sentry-sentrylogslist--default.png",
+    "label": "Entities/Sentry/SentryLogsList / Default"
+  },
+  {
+    "id": "entities-sentry-sentrylogslist--loading",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Loading",
+    "filename": "entities-sentry-sentrylogslist--loading.png",
+    "label": "Entities/Sentry/SentryLogsList / Loading"
+  },
+  {
+    "id": "entities-sentry-sentrylogslist--empty",
+    "title": "Entities/Sentry/SentryLogsList",
+    "name": "Empty",
+    "filename": "entities-sentry-sentrylogslist--empty.png",
+    "label": "Entities/Sentry/SentryLogsList / Empty"
+  },
+  {
+    "id": "entities-sentry-sentrymetricslist--default",
+    "title": "Entities/Sentry/SentryMetricsList",
+    "name": "Default",
+    "filename": "entities-sentry-sentrymetricslist--default.png",
+    "label": "Entities/Sentry/SentryMetricsList / Default"
+  },
+  {
+    "id": "entities-sentry-sentrymetricslist--loading",
+    "title": "Entities/Sentry/SentryMetricsList",
+    "name": "Loading",
+    "filename": "entities-sentry-sentrymetricslist--loading.png",
+    "label": "Entities/Sentry/SentryMetricsList / Loading"
+  },
+  {
+    "id": "entities-sentry-sentrymetricslist--empty",
+    "title": "Entities/Sentry/SentryMetricsList",
+    "name": "Empty",
+    "filename": "entities-sentry-sentrymetricslist--empty.png",
+    "label": "Entities/Sentry/SentryMetricsList / Empty"
+  },
+  {
+    "id": "entities-sentry-sentrysubnav--default",
+    "title": "Entities/Sentry/SentrySubNav",
+    "name": "Default",
+    "filename": "entities-sentry-sentrysubnav--default.png",
+    "label": "Entities/Sentry/SentrySubNav / Default"
+  },
+  {
+    "id": "screens-sentry-sentryexceptionspage--default",
+    "title": "Screens/Sentry/SentryExceptionsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentryexceptionspage--default.png",
+    "label": "Screens/Sentry/SentryExceptionsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrylogspage--default",
+    "title": "Screens/Sentry/SentryLogsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrylogspage--default.png",
+    "label": "Screens/Sentry/SentryLogsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrymetricspage--default",
+    "title": "Screens/Sentry/SentryMetricsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrymetricspage--default.png",
+    "label": "Screens/Sentry/SentryMetricsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracedetailpage--default",
+    "title": "Screens/Sentry/SentryTraceDetailPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracedetailpage--default.png",
+    "label": "Screens/Sentry/SentryTraceDetailPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracespage--default",
+    "title": "Screens/Sentry/SentryTracesPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracespage--default.png",
+    "label": "Screens/Sentry/SentryTracesPage / Default"
+  },
+  {
+    "id": "shared-appheader--default",
+    "title": "Shared/AppHeader",
+    "name": "Default",
+    "filename": "shared-appheader--default.png",
+    "label": "Shared/AppHeader / Default"
+  },
+  {
+    "id": "shared-appheader--with-actions",
+    "title": "Shared/AppHeader",
+    "name": "With Actions",
+    "filename": "shared-appheader--with-actions.png",
+    "label": "Shared/AppHeader / With Actions"
+  },
+  {
+    "id": "widgets-layoutpreviewevents--default",
+    "title": "Widgets/LayoutPreviewEvents",
+    "name": "Default",
+    "filename": "widgets-layoutpreviewevents--default.png",
+    "label": "Widgets/LayoutPreviewEvents / Default"
+  }
+]
