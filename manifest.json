@@ -1,0 +1,44 @@
+[
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "shared-iconsvg--default",
+    "title": "Shared/IconSvg",
+    "name": "Default",
+    "filename": "shared-iconsvg--default.png",
+    "label": "Shared/IconSvg / Default"
+  },
+  {
+    "id": "shared-iconsvg--all-icons",
+    "title": "Shared/IconSvg",
+    "name": "All Icons",
+    "filename": "shared-iconsvg--all-icons.png",
+    "label": "Shared/IconSvg / All Icons"
+  },
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
