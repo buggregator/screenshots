@@ -1,0 +1,23 @@
+[
+  {
+    "id": "screens-sentry-sentryexceptionspage--default",
+    "title": "Screens/Sentry/SentryExceptionsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentryexceptionspage--default.png",
+    "label": "Screens/Sentry/SentryExceptionsPage / Default"
+  },
+  {
+    "id": "widgets-layoutpreviewevents--default",
+    "title": "Widgets/LayoutPreviewEvents",
+    "name": "Default",
+    "filename": "widgets-layoutpreviewevents--default.png",
+    "label": "Widgets/LayoutPreviewEvents / Default"
+  },
+  {
+    "id": "widgets-pageheader--default",
+    "title": "Widgets/PageHeader",
+    "name": "Default",
+    "filename": "widgets-pageheader--default.png",
+    "label": "Widgets/PageHeader / Default"
+  }
+]
