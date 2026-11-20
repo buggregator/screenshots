@@ -1,0 +1,23 @@
+[
+  {
+    "id": "entities-sentry-tracewaterfall--default",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "Default",
+    "filename": "entities-sentry-tracewaterfall--default.png",
+    "label": "Entities/Sentry/TraceWaterfall / Default"
+  },
+  {
+    "id": "entities-sentry-tracewaterfall--with-errors",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "With Errors",
+    "filename": "entities-sentry-tracewaterfall--with-errors.png",
+    "label": "Entities/Sentry/TraceWaterfall / With Errors"
+  },
+  {
+    "id": "entities-sentry-tracewaterfall--empty",
+    "title": "Entities/Sentry/TraceWaterfall",
+    "name": "Empty",
+    "filename": "entities-sentry-tracewaterfall--empty.png",
+    "label": "Entities/Sentry/TraceWaterfall / Empty"
+  }
+]
