@@ -1,0 +1,37 @@
+[
+  {
+    "id": "entities-smtp-smtppage--default",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Default",
+    "filename": "entities-smtp-smtppage--default.png",
+    "label": "Entities/SMTP/SmtpPage / Default"
+  },
+  {
+    "id": "entities-smtp-smtppage--order",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Order",
+    "filename": "entities-smtp-smtppage--order.png",
+    "label": "Entities/SMTP/SmtpPage / Order"
+  },
+  {
+    "id": "entities-smtp-smtppage--text",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Text",
+    "filename": "entities-smtp-smtppage--text.png",
+    "label": "Entities/SMTP/SmtpPage / Text"
+  },
+  {
+    "id": "entities-smtp-smtppage--html-with-script",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Html With Script",
+    "filename": "entities-smtp-smtppage--html-with-script.png",
+    "label": "Entities/SMTP/SmtpPage / Html With Script"
+  },
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  }
+]
