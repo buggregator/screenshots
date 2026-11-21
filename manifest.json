@@ -1,0 +1,65 @@
+[
+  {
+    "id": "entities-sentry-sentryexceptionframe--frame",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Frame",
+    "filename": "entities-sentry-sentryexceptionframe--frame.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Frame"
+  },
+  {
+    "id": "entities-sentry-sentryexceptionframe--vars-only-no-source",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Vars Only No Source",
+    "filename": "entities-sentry-sentryexceptionframe--vars-only-no-source.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Vars Only No Source"
+  },
+  {
+    "id": "entities-sentry-sentryexceptionframe--bare",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Bare",
+    "filename": "entities-sentry-sentryexceptionframe--bare.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Bare"
+  },
+  {
+    "id": "entities-sentry-sentryexception--exception",
+    "title": "Entities/Sentry/SentryException",
+    "name": "Exception",
+    "filename": "entities-sentry-sentryexception--exception.png",
+    "label": "Entities/Sentry/SentryException / Exception"
+  },
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "shared-iconsvg--default",
+    "title": "Shared/IconSvg",
+    "name": "Default",
+    "filename": "shared-iconsvg--default.png",
+    "label": "Shared/IconSvg / Default"
+  },
+  {
+    "id": "shared-iconsvg--all-icons",
+    "title": "Shared/IconSvg",
+    "name": "All Icons",
+    "filename": "shared-iconsvg--all-icons.png",
+    "label": "Shared/IconSvg / All Icons"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
