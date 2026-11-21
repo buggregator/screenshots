@@ -1,0 +1,275 @@
+[
+  {
+    "id": "entities-sentry-sentryemptystate--exceptions",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Exceptions",
+    "filename": "entities-sentry-sentryemptystate--exceptions.png",
+    "label": "Entities/Sentry/SentryEmptyState / Exceptions"
+  },
+  {
+    "id": "entities-sentry-sentryemptystate--traces",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Traces",
+    "filename": "entities-sentry-sentryemptystate--traces.png",
+    "label": "Entities/Sentry/SentryEmptyState / Traces"
+  },
+  {
+    "id": "entities-sentry-sentryemptystate--logs",
+    "title": "Entities/Sentry/SentryEmptyState",
+    "name": "Logs",
+    "filename": "entities-sentry-sentryemptystate--logs.png",
+    "label": "Entities/Sentry/SentryEmptyState / Logs"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-common",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Common",
+    "filename": "entities-sentry-sentrypage--page-common.png",
+    "label": "Entities/Sentry/SentryPage / Page Common"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-event",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Event",
+    "filename": "entities-sentry-sentrypage--page-event.png",
+    "label": "Entities/Sentry/SentryPage / Page Event"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-laravel",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Laravel",
+    "filename": "entities-sentry-sentrypage--page-laravel.png",
+    "label": "Entities/Sentry/SentryPage / Page Laravel"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-spiral",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Spiral",
+    "filename": "entities-sentry-sentrypage--page-spiral.png",
+    "label": "Entities/Sentry/SentryPage / Page Spiral"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS",
+    "filename": "entities-sentry-sentrypage--page-js.png",
+    "label": "Entities/Sentry/SentryPage / Page JS"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js-message",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS Message",
+    "filename": "entities-sentry-sentrypage--page-js-message.png",
+    "label": "Entities/Sentry/SentryPage / Page JS Message"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python",
+    "filename": "entities-sentry-sentrypage--page-python.png",
+    "label": "Entities/Sentry/SentryPage / Page Python"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python-log",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python Log",
+    "filename": "entities-sentry-sentrypage--page-python-log.png",
+    "label": "Entities/Sentry/SentryPage / Page Python Log"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-minimal-error-no-trace",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Minimal Error No Trace",
+    "filename": "entities-sentry-sentrypage--page-minimal-error-no-trace.png",
+    "label": "Entities/Sentry/SentryPage / Page Minimal Error No Trace"
+  },
+  {
+    "id": "entities-sentry-sentrysubnav--default",
+    "title": "Entities/Sentry/SentrySubNav",
+    "name": "Default",
+    "filename": "entities-sentry-sentrysubnav--default.png",
+    "label": "Entities/Sentry/SentrySubNav / Default"
+  },
+  {
+    "id": "screens-eventpage-eventpage--default",
+    "title": "Screens/EventPage/EventPage",
+    "name": "Default",
+    "filename": "screens-eventpage-eventpage--default.png",
+    "label": "Screens/EventPage/EventPage / Default"
+  },
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "shared-iconsvg--default",
+    "title": "Shared/IconSvg",
+    "name": "Default",
+    "filename": "shared-iconsvg--default.png",
+    "label": "Shared/IconSvg / Default"
+  },
+  {
+    "id": "shared-iconsvg--all-icons",
+    "title": "Shared/IconSvg",
+    "name": "All Icons",
+    "filename": "shared-iconsvg--all-icons.png",
+    "label": "Shared/IconSvg / All Icons"
+  },
+  {
+    "id": "shared-previewcardheader--default",
+    "title": "Shared/PreviewCardHeader",
+    "name": "Default",
+    "filename": "shared-previewcardheader--default.png",
+    "label": "Shared/PreviewCardHeader / Default"
+  },
+  {
+    "id": "shared-previewcard--default",
+    "title": "Shared/PreviewCard",
+    "name": "Default",
+    "filename": "shared-previewcard--default.png",
+    "label": "Shared/PreviewCard / Default"
+  },
+  {
+    "id": "widgets-eventcardmapper--default",
+    "title": "Widgets/EventCardMapper",
+    "name": "Default",
+    "filename": "widgets-eventcardmapper--default.png",
+    "label": "Widgets/EventCardMapper / Default"
+  },
+  {
+    "id": "widgets-eventcardmapper--monolog",
+    "title": "Widgets/EventCardMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventcardmapper--monolog.png",
+    "label": "Widgets/EventCardMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventcardmapper--sentry",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventcardmapper--sentry.png",
+    "label": "Widgets/EventCardMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventcardmapper--smtp",
+    "title": "Widgets/EventCardMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventcardmapper--smtp.png",
+    "label": "Widgets/EventCardMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventcardmapper--var-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventcardmapper--var-dump.png",
+    "label": "Widgets/EventCardMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--profiler",
+    "title": "Widgets/EventCardMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventcardmapper--profiler.png",
+    "label": "Widgets/EventCardMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventcardmapper--inspector",
+    "title": "Widgets/EventCardMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventcardmapper--inspector.png",
+    "label": "Widgets/EventCardMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventcardmapper--http-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventcardmapper--http-dump.png",
+    "label": "Widgets/EventCardMapper / Http Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms",
+    "filename": "widgets-eventcardmapper--sms.png",
+    "label": "Widgets/EventCardMapper / Sms"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms-with-warnings",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms With Warnings",
+    "filename": "widgets-eventcardmapper--sms-with-warnings.png",
+    "label": "Widgets/EventCardMapper / Sms With Warnings"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List",
+    "filename": "widgets-eventcardmapper--events-list.png",
+    "label": "Widgets/EventCardMapper / Events List"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list-virtual",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List Virtual",
+    "filename": "widgets-eventcardmapper--events-list-virtual.png",
+    "label": "Widgets/EventCardMapper / Events List Virtual"
+  },
+  {
+    "id": "widgets-eventspagemapper--default",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Default",
+    "filename": "widgets-eventspagemapper--default.png",
+    "label": "Widgets/EventsPageMapper / Default"
+  },
+  {
+    "id": "widgets-eventspagemapper--monolog",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventspagemapper--monolog.png",
+    "label": "Widgets/EventsPageMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventspagemapper--sentry",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventspagemapper--sentry.png",
+    "label": "Widgets/EventsPageMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventspagemapper--smtp",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventspagemapper--smtp.png",
+    "label": "Widgets/EventsPageMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventspagemapper--var-dump",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventspagemapper--var-dump.png",
+    "label": "Widgets/EventsPageMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventspagemapper--profiler",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventspagemapper--profiler.png",
+    "label": "Widgets/EventsPageMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventspagemapper--inspector",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventspagemapper--inspector.png",
+    "label": "Widgets/EventsPageMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventspagemapper--http-dump",
+    "title": "Widgets/EventsPageMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventspagemapper--http-dump.png",
+    "label": "Widgets/EventsPageMapper / Http Dump"
+  }
+]
