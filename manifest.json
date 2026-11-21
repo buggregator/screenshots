@@ -1,0 +1,170 @@
+[
+  {
+    "id": "shared-codesnippet--default",
+    "title": "Shared/CodeSnippet",
+    "name": "Default",
+    "filename": "shared-codesnippet--default.png",
+    "label": "Shared/CodeSnippet / Default"
+  },
+  {
+    "id": "shared-codesnippet--object",
+    "title": "Shared/CodeSnippet",
+    "name": "Object",
+    "filename": "shared-codesnippet--object.png",
+    "label": "Shared/CodeSnippet / Object"
+  },
+  {
+    "id": "shared-codesnippet--html-string",
+    "title": "Shared/CodeSnippet",
+    "name": "HTML String",
+    "filename": "shared-codesnippet--html-string.png",
+    "label": "Shared/CodeSnippet / HTML String"
+  },
+  {
+    "id": "shared-codesnippet--php-string",
+    "title": "Shared/CodeSnippet",
+    "name": "PHP String",
+    "filename": "shared-codesnippet--php-string.png",
+    "label": "Shared/CodeSnippet / PHP String"
+  },
+  {
+    "id": "shared-iconsvg--default",
+    "title": "Shared/IconSvg",
+    "name": "Default",
+    "filename": "shared-iconsvg--default.png",
+    "label": "Shared/IconSvg / Default"
+  },
+  {
+    "id": "shared-iconsvg--all-icons",
+    "title": "Shared/IconSvg",
+    "name": "All Icons",
+    "filename": "shared-iconsvg--all-icons.png",
+    "label": "Shared/IconSvg / All Icons"
+  },
+  {
+    "id": "shared-searchbar--default",
+    "title": "Shared/SearchBar",
+    "name": "Default",
+    "filename": "shared-searchbar--default.png",
+    "label": "Shared/SearchBar / Default"
+  },
+  {
+    "id": "shared-searchbar--with-query",
+    "title": "Shared/SearchBar",
+    "name": "With Query",
+    "filename": "shared-searchbar--with-query.png",
+    "label": "Shared/SearchBar / With Query"
+  },
+  {
+    "id": "widgets-eventcardmapper--default",
+    "title": "Widgets/EventCardMapper",
+    "name": "Default",
+    "filename": "widgets-eventcardmapper--default.png",
+    "label": "Widgets/EventCardMapper / Default"
+  },
+  {
+    "id": "widgets-eventcardmapper--monolog",
+    "title": "Widgets/EventCardMapper",
+    "name": "Monolog",
+    "filename": "widgets-eventcardmapper--monolog.png",
+    "label": "Widgets/EventCardMapper / Monolog"
+  },
+  {
+    "id": "widgets-eventcardmapper--sentry",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sentry",
+    "filename": "widgets-eventcardmapper--sentry.png",
+    "label": "Widgets/EventCardMapper / Sentry"
+  },
+  {
+    "id": "widgets-eventcardmapper--smtp",
+    "title": "Widgets/EventCardMapper",
+    "name": "Smtp",
+    "filename": "widgets-eventcardmapper--smtp.png",
+    "label": "Widgets/EventCardMapper / Smtp"
+  },
+  {
+    "id": "widgets-eventcardmapper--var-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Var Dump",
+    "filename": "widgets-eventcardmapper--var-dump.png",
+    "label": "Widgets/EventCardMapper / Var Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--profiler",
+    "title": "Widgets/EventCardMapper",
+    "name": "Profiler",
+    "filename": "widgets-eventcardmapper--profiler.png",
+    "label": "Widgets/EventCardMapper / Profiler"
+  },
+  {
+    "id": "widgets-eventcardmapper--inspector",
+    "title": "Widgets/EventCardMapper",
+    "name": "Inspector",
+    "filename": "widgets-eventcardmapper--inspector.png",
+    "label": "Widgets/EventCardMapper / Inspector"
+  },
+  {
+    "id": "widgets-eventcardmapper--http-dump",
+    "title": "Widgets/EventCardMapper",
+    "name": "Http Dump",
+    "filename": "widgets-eventcardmapper--http-dump.png",
+    "label": "Widgets/EventCardMapper / Http Dump"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms",
+    "filename": "widgets-eventcardmapper--sms.png",
+    "label": "Widgets/EventCardMapper / Sms"
+  },
+  {
+    "id": "widgets-eventcardmapper--sms-with-warnings",
+    "title": "Widgets/EventCardMapper",
+    "name": "Sms With Warnings",
+    "filename": "widgets-eventcardmapper--sms-with-warnings.png",
+    "label": "Widgets/EventCardMapper / Sms With Warnings"
+  },
+  {
+    "id": "widgets-eventcardmapper--broadcast",
+    "title": "Widgets/EventCardMapper",
+    "name": "Broadcast",
+    "filename": "widgets-eventcardmapper--broadcast.png",
+    "label": "Widgets/EventCardMapper / Broadcast"
+  },
+  {
+    "id": "widgets-eventcardmapper--broadcast-with-problems",
+    "title": "Widgets/EventCardMapper",
+    "name": "Broadcast With Problems",
+    "filename": "widgets-eventcardmapper--broadcast-with-problems.png",
+    "label": "Widgets/EventCardMapper / Broadcast With Problems"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List",
+    "filename": "widgets-eventcardmapper--events-list.png",
+    "label": "Widgets/EventCardMapper / Events List"
+  },
+  {
+    "id": "widgets-eventcardmapper--events-list-virtual",
+    "title": "Widgets/EventCardMapper",
+    "name": "Events List Virtual",
+    "filename": "widgets-eventcardmapper--events-list-virtual.png",
+    "label": "Widgets/EventCardMapper / Events List Virtual"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
