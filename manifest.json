@@ -1,0 +1,254 @@
+[
+  {
+    "id": "entities-httpdump-httpbodyview--json-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Json Body",
+    "filename": "entities-httpdump-httpbodyview--json-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Json Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--empty-json-object",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Empty Json Object",
+    "filename": "entities-httpdump-httpbodyview--empty-json-object.png",
+    "label": "Entities/HttpDump/HttpBodyView / Empty Json Object"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--html-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Html Body",
+    "filename": "entities-httpdump-httpbodyview--html-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Html Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--xml-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Xml Body",
+    "filename": "entities-httpdump-httpbodyview--xml-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Xml Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--plain-text-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Plain Text Body",
+    "filename": "entities-httpdump-httpbodyview--plain-text-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Plain Text Body"
+  },
+  {
+    "id": "entities-httpdump-httpbodyview--large-json-body",
+    "title": "Entities/HttpDump/HttpBodyView",
+    "name": "Large Json Body",
+    "filename": "entities-httpdump-httpbodyview--large-json-body.png",
+    "label": "Entities/HttpDump/HttpBodyView / Large Json Body"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--with-query-and-headers",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "With Query And Headers",
+    "filename": "entities-httpdump-httprequestpanel--with-query-and-headers.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / With Query And Headers"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--proxy-post-with-json-body",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "Proxy Post With Json Body",
+    "filename": "entities-httpdump-httprequestpanel--proxy-post-with-json-body.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / Proxy Post With Json Body"
+  },
+  {
+    "id": "entities-httpdump-httprequestpanel--proxy-form-body",
+    "title": "Entities/HttpDump/HttpRequestPanel",
+    "name": "Proxy Form Body",
+    "filename": "entities-httpdump-httprequestpanel--proxy-form-body.png",
+    "label": "Entities/HttpDump/HttpRequestPanel / Proxy Form Body"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--json-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Json Response",
+    "filename": "entities-httpdump-httpresponsepanel--json-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Json Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--html-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Html Response",
+    "filename": "entities-httpdump-httpresponsepanel--html-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Html Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--xml-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Xml Response",
+    "filename": "entities-httpdump-httpresponsepanel--xml-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Xml Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--binary-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Binary Response",
+    "filename": "entities-httpdump-httpresponsepanel--binary-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Binary Response"
+  },
+  {
+    "id": "entities-httpdump-httpresponsepanel--error-response",
+    "title": "Entities/HttpDump/HttpResponsePanel",
+    "name": "Error Response",
+    "filename": "entities-httpdump-httpresponsepanel--error-response.png",
+    "label": "Entities/HttpDump/HttpResponsePanel / Error Response"
+  },
+  {
+    "id": "entities-profiler-flamegraph--default",
+    "title": "Entities/Profiler/FlameGraph",
+    "name": "Default",
+    "filename": "entities-profiler-flamegraph--default.png",
+    "label": "Entities/Profiler/FlameGraph / Default"
+  },
+  {
+    "id": "entities-sentry-sentrysubnav--default",
+    "title": "Entities/Sentry/SentrySubNav",
+    "name": "Default",
+    "filename": "entities-sentry-sentrysubnav--default.png",
+    "label": "Entities/Sentry/SentrySubNav / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracedetailpage--default",
+    "title": "Screens/Sentry/SentryTraceDetailPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracedetailpage--default.png",
+    "label": "Screens/Sentry/SentryTraceDetailPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracespage--default",
+    "title": "Screens/Sentry/SentryTracesPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracespage--default.png",
+    "label": "Screens/Sentry/SentryTracesPage / Default"
+  },
+  {
+    "id": "screens-settings-settingspagecontent--default",
+    "title": "Screens/Settings/SettingsPageContent",
+    "name": "Default",
+    "filename": "screens-settings-settingspagecontent--default.png",
+    "label": "Screens/Settings/SettingsPageContent / Default"
+  },
+  {
+    "id": "shared-emailpreview--default",
+    "title": "Shared/EmailPreview",
+    "name": "Default",
+    "filename": "shared-emailpreview--default.png",
+    "label": "Shared/EmailPreview / Default"
+  },
+  {
+    "id": "shared-emailpreview--tablet",
+    "title": "Shared/EmailPreview",
+    "name": "Tablet",
+    "filename": "shared-emailpreview--tablet.png",
+    "label": "Shared/EmailPreview / Tablet"
+  },
+  {
+    "id": "shared-emailpreview--mobile",
+    "title": "Shared/EmailPreview",
+    "name": "Mobile",
+    "filename": "shared-emailpreview--mobile.png",
+    "label": "Shared/EmailPreview / Mobile"
+  },
+  {
+    "id": "shared-emailpreview--desktop",
+    "title": "Shared/EmailPreview",
+    "name": "Desktop",
+    "filename": "shared-emailpreview--desktop.png",
+    "label": "Shared/EmailPreview / Desktop"
+  },
+  {
+    "id": "shared-filterchip--default",
+    "title": "Shared/FilterChip",
+    "name": "Default",
+    "filename": "shared-filterchip--default.png",
+    "label": "Shared/FilterChip / Default"
+  },
+  {
+    "id": "shared-filterchip--exclude",
+    "title": "Shared/FilterChip",
+    "name": "Exclude",
+    "filename": "shared-filterchip--exclude.png",
+    "label": "Shared/FilterChip / Exclude"
+  },
+  {
+    "id": "shared-filterchip--long-value",
+    "title": "Shared/FilterChip",
+    "name": "Long Value",
+    "filename": "shared-filterchip--long-value.png",
+    "label": "Shared/FilterChip / Long Value"
+  },
+  {
+    "id": "shared-segmentedcontrol--default",
+    "title": "Shared/SegmentedControl",
+    "name": "Default",
+    "filename": "shared-segmentedcontrol--default.png",
+    "label": "Shared/SegmentedControl / Default"
+  },
+  {
+    "id": "shared-segmentedcontrol--small",
+    "title": "Shared/SegmentedControl",
+    "name": "Small",
+    "filename": "shared-segmentedcontrol--small.png",
+    "label": "Shared/SegmentedControl / Small"
+  },
+  {
+    "id": "shared-segmentedcontrol--outline",
+    "title": "Shared/SegmentedControl",
+    "name": "Outline",
+    "filename": "shared-segmentedcontrol--outline.png",
+    "label": "Shared/SegmentedControl / Outline"
+  },
+  {
+    "id": "shared-segmentedcontrol--icons-and-counts",
+    "title": "Shared/SegmentedControl",
+    "name": "Icons And Counts",
+    "filename": "shared-segmentedcontrol--icons-and-counts.png",
+    "label": "Shared/SegmentedControl / Icons And Counts"
+  },
+  {
+    "id": "shared-segmentedcontrol--block",
+    "title": "Shared/SegmentedControl",
+    "name": "Block",
+    "filename": "shared-segmentedcontrol--block.png",
+    "label": "Shared/SegmentedControl / Block"
+  },
+  {
+    "id": "shared-tabs--default",
+    "title": "Shared/Tabs",
+    "name": "Default",
+    "filename": "shared-tabs--default.png",
+    "label": "Shared/Tabs / Default"
+  },
+  {
+    "id": "shared-tabs--with-icons-and-info",
+    "title": "Shared/Tabs",
+    "name": "With Icons And Info",
+    "filename": "shared-tabs--with-icons-and-info.png",
+    "label": "Shared/Tabs / With Icons And Info"
+  },
+  {
+    "id": "shared-tabs--disabled",
+    "title": "Shared/Tabs",
+    "name": "Disabled",
+    "filename": "shared-tabs--disabled.png",
+    "label": "Shared/Tabs / Disabled"
+  },
+  {
+    "id": "shared-tabs--links",
+    "title": "Shared/Tabs",
+    "name": "Links",
+    "filename": "shared-tabs--links.png",
+    "label": "Shared/Tabs / Links"
+  },
+  {
+    "id": "shared-tabs--overflow",
+    "title": "Shared/Tabs",
+    "name": "Overflow",
+    "filename": "shared-tabs--overflow.png",
+    "label": "Shared/Tabs / Overflow"
+  }
+]
