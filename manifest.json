@@ -1,0 +1,23 @@
+[
+  {
+    "id": "shared-valuedump--string",
+    "title": "Shared/ValueDump",
+    "name": "String",
+    "filename": "shared-valuedump--string.png",
+    "label": "Shared/ValueDump / String"
+  },
+  {
+    "id": "shared-valuedump--boolean",
+    "title": "Shared/ValueDump",
+    "name": "Boolean",
+    "filename": "shared-valuedump--boolean.png",
+    "label": "Shared/ValueDump / Boolean"
+  },
+  {
+    "id": "shared-valuedump--sf-dump",
+    "title": "Shared/ValueDump",
+    "name": "Sf Dump",
+    "filename": "shared-valuedump--sf-dump.png",
+    "label": "Shared/ValueDump / Sf Dump"
+  }
+]
