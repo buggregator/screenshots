@@ -1,0 +1,23 @@
+[
+  {
+    "id": "entities-ray-raylock--default",
+    "title": "Entities/Ray/RayLock",
+    "name": "Default",
+    "filename": "entities-ray-raylock--default.png",
+    "label": "Entities/Ray/RayLock / Default"
+  },
+  {
+    "id": "entities-ray-raylock--continued",
+    "title": "Entities/Ray/RayLock",
+    "name": "Continued",
+    "filename": "entities-ray-raylock--continued.png",
+    "label": "Entities/Ray/RayLock / Continued"
+  },
+  {
+    "id": "entities-ray-raylock--stopped",
+    "title": "Entities/Ray/RayLock",
+    "name": "Stopped",
+    "filename": "entities-ray-raylock--stopped.png",
+    "label": "Entities/Ray/RayLock / Stopped"
+  }
+]
