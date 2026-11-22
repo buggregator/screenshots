@@ -1,0 +1,324 @@
+[
+  {
+    "id": "entities-httpdump-httpdumppage--default",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Default",
+    "filename": "entities-httpdump-httpdumppage--default.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Default"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--with-pdf",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "With Pdf",
+    "filename": "entities-httpdump-httpdumppage--with-pdf.png",
+    "label": "Entities/HttpDump/HttpDumpPage / With Pdf"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-json-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Json Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-json-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Json Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-html-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Html Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-html-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Html Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-xml-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Xml Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-xml-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Xml Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-binary-response",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Binary Response",
+    "filename": "entities-httpdump-httpdumppage--proxy-binary-response.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Binary Response"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-4-xx-error",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy 4 Xx Error",
+    "filename": "entities-httpdump-httpdumppage--proxy-4-xx-error.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy 4 Xx Error"
+  },
+  {
+    "id": "entities-httpdump-httpdumppage--proxy-connection-error",
+    "title": "Entities/HttpDump/HttpDumpPage",
+    "name": "Proxy Connection Error",
+    "filename": "entities-httpdump-httpdumppage--proxy-connection-error.png",
+    "label": "Entities/HttpDump/HttpDumpPage / Proxy Connection Error"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-common",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Common",
+    "filename": "entities-sentry-sentrypage--page-common.png",
+    "label": "Entities/Sentry/SentryPage / Page Common"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-event",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Event",
+    "filename": "entities-sentry-sentrypage--page-event.png",
+    "label": "Entities/Sentry/SentryPage / Page Event"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-laravel",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Laravel",
+    "filename": "entities-sentry-sentrypage--page-laravel.png",
+    "label": "Entities/Sentry/SentryPage / Page Laravel"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-spiral",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Spiral",
+    "filename": "entities-sentry-sentrypage--page-spiral.png",
+    "label": "Entities/Sentry/SentryPage / Page Spiral"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS",
+    "filename": "entities-sentry-sentrypage--page-js.png",
+    "label": "Entities/Sentry/SentryPage / Page JS"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-js-message",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page JS Message",
+    "filename": "entities-sentry-sentrypage--page-js-message.png",
+    "label": "Entities/Sentry/SentryPage / Page JS Message"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python",
+    "filename": "entities-sentry-sentrypage--page-python.png",
+    "label": "Entities/Sentry/SentryPage / Page Python"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-python-log",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Python Log",
+    "filename": "entities-sentry-sentrypage--page-python-log.png",
+    "label": "Entities/Sentry/SentryPage / Page Python Log"
+  },
+  {
+    "id": "entities-sentry-sentrypage--page-minimal-error-no-trace",
+    "title": "Entities/Sentry/SentryPage",
+    "name": "Page Minimal Error No Trace",
+    "filename": "entities-sentry-sentrypage--page-minimal-error-no-trace.png",
+    "label": "Entities/Sentry/SentryPage / Page Minimal Error No Trace"
+  },
+  {
+    "id": "entities-smtp-smtppage--default",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Default",
+    "filename": "entities-smtp-smtppage--default.png",
+    "label": "Entities/SMTP/SmtpPage / Default"
+  },
+  {
+    "id": "entities-smtp-smtppage--order",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Order",
+    "filename": "entities-smtp-smtppage--order.png",
+    "label": "Entities/SMTP/SmtpPage / Order"
+  },
+  {
+    "id": "entities-smtp-smtppage--text",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Text",
+    "filename": "entities-smtp-smtppage--text.png",
+    "label": "Entities/SMTP/SmtpPage / Text"
+  },
+  {
+    "id": "entities-smtp-smtppage--html-with-script",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Html With Script",
+    "filename": "entities-smtp-smtppage--html-with-script.png",
+    "label": "Entities/SMTP/SmtpPage / Html With Script"
+  },
+  {
+    "id": "screens-eventpage-eventpage--default",
+    "title": "Screens/EventPage/EventPage",
+    "name": "Default",
+    "filename": "screens-eventpage-eventpage--default.png",
+    "label": "Screens/EventPage/EventPage / Default"
+  },
+  {
+    "id": "screens-metrics-metricspage--with-data",
+    "title": "Screens/Metrics/MetricsPage",
+    "name": "With Data",
+    "filename": "screens-metrics-metricspage--with-data.png",
+    "label": "Screens/Metrics/MetricsPage / With Data"
+  },
+  {
+    "id": "screens-metrics-metricspage--empty",
+    "title": "Screens/Metrics/MetricsPage",
+    "name": "Empty",
+    "filename": "screens-metrics-metricspage--empty.png",
+    "label": "Screens/Metrics/MetricsPage / Empty"
+  },
+  {
+    "id": "screens-sentry-sentrytracedetailpage--default",
+    "title": "Screens/Sentry/SentryTraceDetailPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracedetailpage--default.png",
+    "label": "Screens/Sentry/SentryTraceDetailPage / Default"
+  },
+  {
+    "id": "screens-settings-settingspage--default",
+    "title": "Screens/Settings/SettingsPage",
+    "name": "Default",
+    "filename": "screens-settings-settingspage--default.png",
+    "label": "Screens/Settings/SettingsPage / Default"
+  },
+  {
+    "id": "shared-appheader--default",
+    "title": "Shared/AppHeader",
+    "name": "Default",
+    "filename": "shared-appheader--default.png",
+    "label": "Shared/AppHeader / Default"
+  },
+  {
+    "id": "shared-appheader--with-actions",
+    "title": "Shared/AppHeader",
+    "name": "With Actions",
+    "filename": "shared-appheader--with-actions.png",
+    "label": "Shared/AppHeader / With Actions"
+  },
+  {
+    "id": "shared-appheader--two-rows",
+    "title": "Shared/AppHeader",
+    "name": "Two Rows",
+    "filename": "shared-appheader--two-rows.png",
+    "label": "Shared/AppHeader / Two Rows"
+  },
+  {
+    "id": "shared-filterchip--default",
+    "title": "Shared/FilterChip",
+    "name": "Default",
+    "filename": "shared-filterchip--default.png",
+    "label": "Shared/FilterChip / Default"
+  },
+  {
+    "id": "shared-filterchip--exclude",
+    "title": "Shared/FilterChip",
+    "name": "Exclude",
+    "filename": "shared-filterchip--exclude.png",
+    "label": "Shared/FilterChip / Exclude"
+  },
+  {
+    "id": "shared-filterchip--long-value",
+    "title": "Shared/FilterChip",
+    "name": "Long Value",
+    "filename": "shared-filterchip--long-value.png",
+    "label": "Shared/FilterChip / Long Value"
+  },
+  {
+    "id": "shared-segmentedcontrol--default",
+    "title": "Shared/SegmentedControl",
+    "name": "Default",
+    "filename": "shared-segmentedcontrol--default.png",
+    "label": "Shared/SegmentedControl / Default"
+  },
+  {
+    "id": "shared-segmentedcontrol--small",
+    "title": "Shared/SegmentedControl",
+    "name": "Small",
+    "filename": "shared-segmentedcontrol--small.png",
+    "label": "Shared/SegmentedControl / Small"
+  },
+  {
+    "id": "shared-segmentedcontrol--outline",
+    "title": "Shared/SegmentedControl",
+    "name": "Outline",
+    "filename": "shared-segmentedcontrol--outline.png",
+    "label": "Shared/SegmentedControl / Outline"
+  },
+  {
+    "id": "shared-segmentedcontrol--icons-and-counts",
+    "title": "Shared/SegmentedControl",
+    "name": "Icons And Counts",
+    "filename": "shared-segmentedcontrol--icons-and-counts.png",
+    "label": "Shared/SegmentedControl / Icons And Counts"
+  },
+  {
+    "id": "shared-segmentedcontrol--block",
+    "title": "Shared/SegmentedControl",
+    "name": "Block",
+    "filename": "shared-segmentedcontrol--block.png",
+    "label": "Shared/SegmentedControl / Block"
+  },
+  {
+    "id": "shared-tabs--default",
+    "title": "Shared/Tabs",
+    "name": "Default",
+    "filename": "shared-tabs--default.png",
+    "label": "Shared/Tabs / Default"
+  },
+  {
+    "id": "shared-tabs--with-icons-and-info",
+    "title": "Shared/Tabs",
+    "name": "With Icons And Info",
+    "filename": "shared-tabs--with-icons-and-info.png",
+    "label": "Shared/Tabs / With Icons And Info"
+  },
+  {
+    "id": "shared-tabs--disabled",
+    "title": "Shared/Tabs",
+    "name": "Disabled",
+    "filename": "shared-tabs--disabled.png",
+    "label": "Shared/Tabs / Disabled"
+  },
+  {
+    "id": "shared-tabs--links",
+    "title": "Shared/Tabs",
+    "name": "Links",
+    "filename": "shared-tabs--links.png",
+    "label": "Shared/Tabs / Links"
+  },
+  {
+    "id": "shared-tabs--overflow",
+    "title": "Shared/Tabs",
+    "name": "Overflow",
+    "filename": "shared-tabs--overflow.png",
+    "label": "Shared/Tabs / Overflow"
+  },
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  },
+  {
+    "id": "widgets-layoutpreviewevents--default",
+    "title": "Widgets/LayoutPreviewEvents",
+    "name": "Default",
+    "filename": "widgets-layoutpreviewevents--default.png",
+    "label": "Widgets/LayoutPreviewEvents / Default"
+  },
+  {
+    "id": "widgets-pageeventheader--default",
+    "title": "Widgets/PageEventHeader",
+    "name": "Default",
+    "filename": "widgets-pageeventheader--default.png",
+    "label": "Widgets/PageEventHeader / Default"
+  },
+  {
+    "id": "widgets-pageheader--default",
+    "title": "Widgets/PageHeader",
+    "name": "Default",
+    "filename": "widgets-pageheader--default.png",
+    "label": "Widgets/PageHeader / Default"
+  }
+]
