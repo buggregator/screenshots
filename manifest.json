@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shared-codesnippet--default",
+    "title": "Shared/CodeSnippet",
+    "name": "Default",
+    "filename": "shared-codesnippet--default.png",
+    "label": "Shared/CodeSnippet / Default"
+  },
+  {
+    "id": "shared-codesnippet--object",
+    "title": "Shared/CodeSnippet",
+    "name": "Object",
+    "filename": "shared-codesnippet--object.png",
+    "label": "Shared/CodeSnippet / Object"
+  },
+  {
+    "id": "shared-codesnippet--html-string",
+    "title": "Shared/CodeSnippet",
+    "name": "HTML String",
+    "filename": "shared-codesnippet--html-string.png",
+    "label": "Shared/CodeSnippet / HTML String"
+  },
+  {
+    "id": "shared-codesnippet--php-string",
+    "title": "Shared/CodeSnippet",
+    "name": "PHP String",
+    "filename": "shared-codesnippet--php-string.png",
+    "label": "Shared/CodeSnippet / PHP String"
+  },
+  {
+    "id": "shared-previewcard--default",
+    "title": "Shared/PreviewCard",
+    "name": "Default",
+    "filename": "shared-previewcard--default.png",
+    "label": "Shared/PreviewCard / Default"
+  },
+  {
+    "id": "widgets-layoutpreviewevents--default",
+    "title": "Widgets/LayoutPreviewEvents",
+    "name": "Default",
+    "filename": "widgets-layoutpreviewevents--default.png",
+    "label": "Widgets/LayoutPreviewEvents / Default"
+  }
+]
