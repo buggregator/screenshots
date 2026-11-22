@@ -1,0 +1,79 @@
+[
+  {
+    "id": "entities-smtp-previewcard--order-shipped",
+    "title": "Entities/SMTP/PreviewCard",
+    "name": "Order Shipped",
+    "filename": "entities-smtp-previewcard--order-shipped.png",
+    "label": "Entities/SMTP/PreviewCard / Order Shipped"
+  },
+  {
+    "id": "entities-smtp-previewcard--welcome",
+    "title": "Entities/SMTP/PreviewCard",
+    "name": "Welcome",
+    "filename": "entities-smtp-previewcard--welcome.png",
+    "label": "Entities/SMTP/PreviewCard / Welcome"
+  },
+  {
+    "id": "entities-smtp-smtppage--default",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Default",
+    "filename": "entities-smtp-smtppage--default.png",
+    "label": "Entities/SMTP/SmtpPage / Default"
+  },
+  {
+    "id": "entities-smtp-smtppage--order",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Order",
+    "filename": "entities-smtp-smtppage--order.png",
+    "label": "Entities/SMTP/SmtpPage / Order"
+  },
+  {
+    "id": "entities-smtp-smtppage--text",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Text",
+    "filename": "entities-smtp-smtppage--text.png",
+    "label": "Entities/SMTP/SmtpPage / Text"
+  },
+  {
+    "id": "entities-smtp-smtppage--html-with-script",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Html With Script",
+    "filename": "entities-smtp-smtppage--html-with-script.png",
+    "label": "Entities/SMTP/SmtpPage / Html With Script"
+  },
+  {
+    "id": "entities-smtp-smtppage--invite",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Invite",
+    "filename": "entities-smtp-smtppage--invite.png",
+    "label": "Entities/SMTP/SmtpPage / Invite"
+  },
+  {
+    "id": "entities-smtp-smtppage--cancelled-invite",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Cancelled Invite",
+    "filename": "entities-smtp-smtppage--cancelled-invite.png",
+    "label": "Entities/SMTP/SmtpPage / Cancelled Invite"
+  },
+  {
+    "id": "entities-smtp-smtppage--all-day-ics-attachment",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "All Day Ics Attachment",
+    "filename": "entities-smtp-smtppage--all-day-ics-attachment.png",
+    "label": "Entities/SMTP/SmtpPage / All Day Ics Attachment"
+  },
+  {
+    "id": "entities-smtp-smtppage--apple-watch",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Apple Watch",
+    "filename": "entities-smtp-smtppage--apple-watch.png",
+    "label": "Entities/SMTP/SmtpPage / Apple Watch"
+  },
+  {
+    "id": "entities-smtp-smtppage--amp",
+    "title": "Entities/SMTP/SmtpPage",
+    "name": "Amp",
+    "filename": "entities-smtp-smtppage--amp.png",
+    "label": "Entities/SMTP/SmtpPage / Amp"
+  }
+]
