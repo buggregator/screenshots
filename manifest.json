@@ -1,0 +1,16 @@
+[
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  },
+  {
+    "id": "widgets-layoutpreviewevents--default",
+    "title": "Widgets/LayoutPreviewEvents",
+    "name": "Default",
+    "filename": "widgets-layoutpreviewevents--default.png",
+    "label": "Widgets/LayoutPreviewEvents / Default"
+  }
+]
