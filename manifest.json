@@ -1,0 +1,128 @@
+[
+  {
+    "id": "entities-monolog-monologpage--default",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Default",
+    "filename": "entities-monolog-monologpage--default.png",
+    "label": "Entities/Monolog/MonologPage / Default"
+  },
+  {
+    "id": "entities-monolog-monologpage--debug",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Debug",
+    "filename": "entities-monolog-monologpage--debug.png",
+    "label": "Entities/Monolog/MonologPage / Debug"
+  },
+  {
+    "id": "entities-monolog-monologpage--info",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Info",
+    "filename": "entities-monolog-monologpage--info.png",
+    "label": "Entities/Monolog/MonologPage / Info"
+  },
+  {
+    "id": "entities-monolog-monologpage--notice",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Notice",
+    "filename": "entities-monolog-monologpage--notice.png",
+    "label": "Entities/Monolog/MonologPage / Notice"
+  },
+  {
+    "id": "entities-monolog-monologpage--warning",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Warning",
+    "filename": "entities-monolog-monologpage--warning.png",
+    "label": "Entities/Monolog/MonologPage / Warning"
+  },
+  {
+    "id": "entities-monolog-monologpage--error",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Error",
+    "filename": "entities-monolog-monologpage--error.png",
+    "label": "Entities/Monolog/MonologPage / Error"
+  },
+  {
+    "id": "entities-monolog-monologpage--critical",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Critical",
+    "filename": "entities-monolog-monologpage--critical.png",
+    "label": "Entities/Monolog/MonologPage / Critical"
+  },
+  {
+    "id": "entities-monolog-monologpage--alert",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Alert",
+    "filename": "entities-monolog-monologpage--alert.png",
+    "label": "Entities/Monolog/MonologPage / Alert"
+  },
+  {
+    "id": "entities-monolog-monologpage--emergency",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Emergency",
+    "filename": "entities-monolog-monologpage--emergency.png",
+    "label": "Entities/Monolog/MonologPage / Emergency"
+  },
+  {
+    "id": "entities-monolog-monologpage--with-extra",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "With Extra",
+    "filename": "entities-monolog-monologpage--with-extra.png",
+    "label": "Entities/Monolog/MonologPage / With Extra"
+  },
+  {
+    "id": "entities-monolog-monologpage--extended",
+    "title": "Entities/Monolog/MonologPage",
+    "name": "Extended",
+    "filename": "entities-monolog-monologpage--extended.png",
+    "label": "Entities/Monolog/MonologPage / Extended"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--info",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Info",
+    "filename": "entities-sentry-sentrylogrow--info.png",
+    "label": "Entities/Sentry/SentryLogRow / Info"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--warning",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Warning",
+    "filename": "entities-sentry-sentrylogrow--warning.png",
+    "label": "Entities/Sentry/SentryLogRow / Warning"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--error",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Error",
+    "filename": "entities-sentry-sentrylogrow--error.png",
+    "label": "Entities/Sentry/SentryLogRow / Error"
+  },
+  {
+    "id": "entities-sentry-sentrylogrow--debug",
+    "title": "Entities/Sentry/SentryLogRow",
+    "name": "Debug",
+    "filename": "entities-sentry-sentrylogrow--debug.png",
+    "label": "Entities/Sentry/SentryLogRow / Debug"
+  },
+  {
+    "id": "shared-highlighttext--default",
+    "title": "Shared/HighlightText",
+    "name": "Default",
+    "filename": "shared-highlighttext--default.png",
+    "label": "Shared/HighlightText / Default"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
