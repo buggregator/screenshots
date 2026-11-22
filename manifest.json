@@ -1,0 +1,37 @@
+[
+  {
+    "id": "screens-login-loginpage--default",
+    "title": "Screens/Login/LoginPage",
+    "name": "Default",
+    "filename": "screens-login-loginpage--default.png",
+    "label": "Screens/Login/LoginPage / Default"
+  },
+  {
+    "id": "screens-login-loginpage--dark",
+    "title": "Screens/Login/LoginPage",
+    "name": "Dark",
+    "filename": "screens-login-loginpage--dark.png",
+    "label": "Screens/Login/LoginPage / Dark"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  },
+  {
+    "id": "widgets-pageeventheader--default",
+    "title": "Widgets/PageEventHeader",
+    "name": "Default",
+    "filename": "widgets-pageeventheader--default.png",
+    "label": "Widgets/PageEventHeader / Default"
+  }
+]
