@@ -1,0 +1,72 @@
+[
+  {
+    "id": "screens-profiler-profilesummarycard--default",
+    "title": "Screens/Profiler/ProfileSummaryCard",
+    "name": "Default",
+    "filename": "screens-profiler-profilesummarycard--default.png",
+    "label": "Screens/Profiler/ProfileSummaryCard / Default"
+  },
+  {
+    "id": "entities-profiler-rendergraph--default",
+    "title": "Entities/Profiler/RenderGraph",
+    "name": "Default",
+    "filename": "entities-profiler-rendergraph--default.png",
+    "label": "Entities/Profiler/RenderGraph / Default"
+  },
+  {
+    "id": "entities-sentry-sentryexceptionframe--frame",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Frame",
+    "filename": "entities-sentry-sentryexceptionframe--frame.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Frame"
+  },
+  {
+    "id": "entities-sentry-sentryexceptionframe--vars-only-no-source",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Vars Only No Source",
+    "filename": "entities-sentry-sentryexceptionframe--vars-only-no-source.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Vars Only No Source"
+  },
+  {
+    "id": "entities-sentry-sentryexceptionframe--bare",
+    "title": "Entities/Sentry/SentryExceptionFrame",
+    "name": "Bare",
+    "filename": "entities-sentry-sentryexceptionframe--bare.png",
+    "label": "Entities/Sentry/SentryExceptionFrame / Bare"
+  },
+  {
+    "id": "widgets-keyhintbar--event-list",
+    "title": "Widgets/KeyHintBar",
+    "name": "Event List",
+    "filename": "widgets-keyhintbar--event-list.png",
+    "label": "Widgets/KeyHintBar / Event List"
+  },
+  {
+    "id": "widgets-keyhintbar--event-page",
+    "title": "Widgets/KeyHintBar",
+    "name": "Event Page",
+    "filename": "widgets-keyhintbar--event-page.png",
+    "label": "Widgets/KeyHintBar / Event Page"
+  },
+  {
+    "id": "widgets-layoutbase--default",
+    "title": "Widgets/LayoutBase",
+    "name": "Default",
+    "filename": "widgets-layoutbase--default.png",
+    "label": "Widgets/LayoutBase / Default"
+  },
+  {
+    "id": "widgets-layoutsidebar--collapsed",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Collapsed",
+    "filename": "widgets-layoutsidebar--collapsed.png",
+    "label": "Widgets/LayoutSidebar / Collapsed"
+  },
+  {
+    "id": "widgets-layoutsidebar--expanded",
+    "title": "Widgets/LayoutSidebar",
+    "name": "Expanded",
+    "filename": "widgets-layoutsidebar--expanded.png",
+    "label": "Widgets/LayoutSidebar / Expanded"
+  }
+]
