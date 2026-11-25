@@ -1,0 +1,23 @@
+[
+  {
+    "id": "screens-sentry-sentrylogspage--default",
+    "title": "Screens/Sentry/SentryLogsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrylogspage--default.png",
+    "label": "Screens/Sentry/SentryLogsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrymetricspage--default",
+    "title": "Screens/Sentry/SentryMetricsPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrymetricspage--default.png",
+    "label": "Screens/Sentry/SentryMetricsPage / Default"
+  },
+  {
+    "id": "screens-sentry-sentrytracespage--default",
+    "title": "Screens/Sentry/SentryTracesPage",
+    "name": "Default",
+    "filename": "screens-sentry-sentrytracespage--default.png",
+    "label": "Screens/Sentry/SentryTracesPage / Default"
+  }
+]
