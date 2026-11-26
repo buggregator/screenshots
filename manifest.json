@@ -1,0 +1,23 @@
+[
+  {
+    "id": "entities-sentry-miniwaterfall--three-spans",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "Three Spans",
+    "filename": "entities-sentry-miniwaterfall--three-spans.png",
+    "label": "Entities/Sentry/MiniWaterfall / Three Spans"
+  },
+  {
+    "id": "entities-sentry-miniwaterfall--five-spans",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "Five Spans",
+    "filename": "entities-sentry-miniwaterfall--five-spans.png",
+    "label": "Entities/Sentry/MiniWaterfall / Five Spans"
+  },
+  {
+    "id": "entities-sentry-miniwaterfall--with-error",
+    "title": "Entities/Sentry/MiniWaterfall",
+    "name": "With Error",
+    "filename": "entities-sentry-miniwaterfall--with-error.png",
+    "label": "Entities/Sentry/MiniWaterfall / With Error"
+  }
+]
